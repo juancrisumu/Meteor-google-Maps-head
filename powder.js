@@ -1,6 +1,6 @@
 if (Meteor.isClient) {
   Template.nav.greeting = function () {
-    return "Welcome to Powder";
+    return "Powder";
   };
 }
 

@@ -1,0 +1,10 @@
+{
+	"url": "https://localhost:3000/",
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/sasuke/Documents/harddisk/workspace/powder"
+		}
+	]
+}

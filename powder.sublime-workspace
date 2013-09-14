@@ -1,0 +1,357 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"mevents	Template Events"
+			],
+			[
+				"pro",
+				"proto	Prototype"
+			],
+			[
+				"start",
+				"startOrientation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "powder.html",
+			"settings":
+			{
+				"buffer_size": 1323,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "powder.js",
+			"settings":
+			{
+				"buffer_size": 205,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "powder.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"selected_items":
+		[
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"snippet:meteor:template",
+				"Snippet: Meteor: Template.myTemplate.events(eventMap)"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"lint",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"linte",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sasuke/Documents/harddisk/workspace/powder/powder.sublime-project",
+		"/home/sasuke/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
+		"/home/sasuke/Documents/harddisk/workspace/Instahood-master/.meteor/local/build/programs/server/boot.js",
+		"/home/sasuke/Documents/harddisk/workspace/Instahood-master/.meteor/local/build/programs/ctl/boot.js",
+		"/home/sasuke/Documents/harddisk/workspace/powder/powder.css",
+		"/home/sasuke/Documents/harddisk/workspace/powder/backbone.js",
+		"/home/sasuke/Downloads/Instahood-master/client/instahood.html",
+		"/home/sasuke/Downloads/Instahood-master/client/instahood.js",
+		"/home/sasuke/Downloads/Instahood-master/.meteor/packages",
+		"/home/sasuke/Documents/workspace/robot/js/robot.js",
+		"/home/sasuke/Documents/workspace/robotOOP/js/robotmazeinterface.js",
+		"/home/sasuke/Documents/workspace/robotOOP/js/mazespace.js",
+		"/home/sasuke/Documents/workspace/robotOOP/robot.html",
+		"/home/sasuke/Documents/workspace/robotOOP/css/font-awesome.css",
+		"/home/sasuke/Documents/workspace/robotOOP/css/robotmazeinterface.css",
+		"/home/sasuke/Documents/workspace/robotOOP/mazespace.js",
+		"/home/sasuke/Documents/workspace/robotOOP/robot.js",
+		"/home/sasuke/Documents/workspace/robotOOP/readme.txt",
+		"/home/sasuke/Documents/workspace/robotOOP/css",
+		"/home/sasuke/Documents/workspace/robotOOP/css/rotob.css",
+		"/home/sasuke/Documents/workspace/robotOOP/maze.js",
+		"/home/sasuke/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/sasuke/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/sasuke/Documents/powder/server/powder/powder.js",
+		"/home/sasuke/Documents/tumblr.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hello",
+			"}",
+			"forwardX",
+			"forwardY",
+			". ",
+			"this",
+			"groups",
+			"east",
+			"south",
+			"east"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "powder.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "powder.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "powder.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "powder.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"boot",
+				".meteor/local/build/programs/ctl/boot.js"
+			],
+			[
+				"robot",
+				"js/robot.js"
+			],
+			[
+				"css",
+				"css/font-awesome.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
